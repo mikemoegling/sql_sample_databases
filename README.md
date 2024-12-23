@@ -5,4 +5,10 @@ The purpose of this repository is to collect data and build misc data from publi
 
 To be honest, I hate the generic examples used in the code examples and to get good at business analytics, it takes practice and the learning of lots of techniques.  I am using this project to both learn and explore myself.  
 
+Plans are for DB platforms
+SQL Server
+DB2 for IBMi
+MySQL
+Oracle DBMS
+
 - Mike 
